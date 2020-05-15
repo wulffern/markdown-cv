@@ -73,19 +73,19 @@ Guest lectures at NTNU every year, some of the presentations can be found at [ht
 
 `2006`
 TFE4200, Analog integrated circuits, responsible for frequency response, noise
-and CMOS modelling
+and CMOS modeling
 
 
 ## Programming
 
 I've had a love of programming since my first real summer internship back
-in 1999. Over the years I've programed in Visual BASIC, PHP, Ruby, Perl, C#,
+in 1999. Over the years I've programmed in Visual BASIC, PHP, Ruby, Perl, C#,
 SKILL, Ocean, Verilog-A, C++, BASH, AWK, VHDL, SPICE, MATLAB, ASP, Java, C,
 SystemC, Verilog, and probably a few I've forgotten. These days, it's usually
 Python, C and C++. 
 
 `2019-now`
-[Python frontend to ciccreator](https://github.com/wulffern/cicpy) -- Python
+[Python front end to ciccreator](https://github.com/wulffern/cicpy) -- Python
 
 `2009-now`
 [Rapid layout generation tool for SAR
@@ -114,7 +114,7 @@ simulator](https://sourceforge.net/projects/systemdotnet/) -- C#
 ## Education
 
 `2004-2008`
-__NTNU, Ph.D__
+__NTNU, Ph.D.__
 
 `1997-2002`
 __NTNU, Master of Science__
@@ -225,7 +225,7 @@ Devices, Circuits and Systems (ICCDCS-2002). © IEEE. [Visual supplements](http:
 ### Educational Work
 
 `2008`
-**Wulff, C**; Phd Thesis ["Efficient ADCs for nano-scale CMOS technology"](http://www.wulff.no/publications/thesiswulff08.pdf) ©
+**Wulff, C**; Ph.D. Thesis ["Efficient ADCs for nano-scale CMOS technology"](http://www.wulff.no/publications/thesiswulff08.pdf) ©
 Carsten Wulff [Pipelined Schematics](http://www.wulff.no/publications/scarab.pdf)
 
 `2002`
@@ -239,7 +239,7 @@ Carsten Wulff [Pipelined Schematics](http://www.wulff.no/publications/scarab.pdf
 
 `2008`
 **Wulff, C**; ["An ADC primer"](http://www.wulff.no/publications/tb_adcprimer.pdf), stuff about ADCs that did not make it
-into my PhD thesis. This is a rough cut, so there may be some trains
+into my Ph.D. thesis. This is a rough cut, so there may be some trains
 of thought that might be difficult to follow.
 
 <!--
@@ -292,7 +292,7 @@ Harald Garvik
 
 
 ## Hobbies
-[Trailrunning and Bouldering](https://www.youtube.com/channel/UC21MFtsMZBT9UkbcLe4UZnw)
+[Trail-running and Bouldering](https://www.youtube.com/channel/UC21MFtsMZBT9UkbcLe4UZnw)
 
 
 <!-- ### Footer
