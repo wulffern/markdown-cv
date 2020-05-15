@@ -12,8 +12,12 @@ Analog designer, programmer and group manager
 </div>
 
 
-## Currently
+## Nordic Semiconductor
 
+`2008-2011` R & D Engineer, analog design, (ADC on nRF51)
+`2011-2014` Senior R & D Engineer, analog design (ADCs, DC/DCs, nRF52)
+`2014-2015` Team lead, analog design (DC/DC nRF91)
+`2015-now`  Group Manager, Wireless. 
 
 ## Education
 
