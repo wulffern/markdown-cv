@@ -19,9 +19,11 @@ Analog designer, programmer, educator and group manager
 `2015-now`
 __Group Manager, Wireless__<br>
 - Recruited 20+ people<br>
-- Active in Bluetooth special interest group core specification working group
+- Active in Bluetooth Special Interest Group; Core Specification Working Group
+  and Exposure Notification Working Group
 - Analog design nRF53
 - Tool development (Python/C)
+- Embedded programming (nRF52/nRF53)
 
 `2014-2015` 
 __Team Lead__ <br> 
@@ -85,7 +87,7 @@ SystemC, Verilog, and probably a few I've forgotten. These days, it's usually
 Python, C and C++. 
 
 `2019-now`
-[Python front end to ciccreator](https://github.com/wulffern/cicpy) -- Python
+[Python front-end to ciccreator](https://github.com/wulffern/cicpy) -- Python
 
 `2009-now`
 [Rapid layout generation tool for SAR
