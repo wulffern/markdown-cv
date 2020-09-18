@@ -287,10 +287,41 @@ Harald Garvik
 
 ### Master Students
 
-`2004-2020` 10+ students at NTNU
+`2020`
+**H. Nyholm** Localizing Sheep using a Bluetooth Low Energy enabled Unmanned Aerial Vehicle for Round-trip Time of Arrival-based Multilateriation
 
+**C. Nielsen**;  [Ultra Low Power Frequency Synthesizer](https://github.com/nielscol/thesis/blob/master/report.pdf)
 
+`2019`
+**S. Balasubramanian**; [Behavioral Modelling and Design of Noise Shaping SAR
+ADC in 22nm FDSOI](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624661)
 
+`2015`
+**H. Garvik**; [An energy efficient noise-shaping SAR ADC in 28 nm FDSOI](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2371464)
+
+**E. Strandvik**; [Compensation of Threshold Voltage for Process and Temperature Variations in 28nm UTBB FDSOI](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2371461)
+
+**T. Nornes** [Ultra-Low Power SAR-ADC in 28nm CMOS Technologies](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2371499)
+
+`2006`
+**Ø. Knauserud** [Investigation of errors in open-loop sigma-delta modulators utilizing analog modulo integrators](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2369283)
+
+`2005`
+**Ø. Berntsen** [High Speed, High Gain OTA in a Digital 90 nm CMOS Technology](http://www.wulff.no/publications/berntsen.pdf)
+
+**C. Lillebrekke**  [Bootstrapped switches in low voltage nanoscale CMOS process](http://www.wulff.no/publications/lillebrekke.pdf)
+
+**L. Røysland** Utvikling av testoppsett for en Programmerbar Analog IC
+
+**M. Moksnes** Design criteria for a 12-bit 2 Msample/s 1.8 V ADC for realization in 0.18μm CMOS technology
+
+`2004`
+**J. Daleng**; ALEXIS - Automated Laboratory Experiment eXercise Interactive Setup
+
+**F. Strand**; NGAS – Next Generation Analog Station
+
+`2003`
+**V. Pedersen**; NGL webgrensesnitt for FPGA med mikrokontroller
 
 
 ## Hobbies
