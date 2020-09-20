@@ -55,7 +55,7 @@ __Ph.D. student__<br>
 `2001-2003`
 __Teaching assistant__<br>
 Planning and execution of transfer of the CAD system from HP-UX to Linux<br>
-Development av Next Generation Lab, an online electronics lab.<br>
+Development of Next Generation Lab, an online electronics lab.<br>
 Linux administration<br>
 
 ### Wulff Consulting
