@@ -43,8 +43,9 @@ __R & D Engineer__  <br>
 ### NTNU
 
 `2021-` Associate Professor<br>
-- TFE4152 - Design of Integrated Circuits (2021)
 - TFE4188 - Advanced Integrated Circuits (2022)
+- TFE4152 - Design of Integrated Circuits (2021)
+
 
 `2020-2021` Guest Researcher<br>
 
