@@ -48,7 +48,7 @@ __R & D Engineer__  <br>
 
 
 `2020-2021` __Guest Researcher__<br>
-Development of TFE4188 Advanced Integrated Circuit
+Development of TFE4188 - Advanced Integrated Circuits
 
 `2014-2017`__Post.Doc__<br>
 - [A Compiled 9-bit 20-MS/s 3.5-fJ/conv.step SAR ADC in 28-nm FDSOI for Bluetooth
