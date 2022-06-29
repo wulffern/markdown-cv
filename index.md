@@ -46,7 +46,6 @@ __R & D Engineer__  <br>
 - TFE4188 - Advanced Integrated Circuits (2022)
 - TFE4152 - Design of Integrated Circuits (2021)
 
-
 `2020-2021` __Guest Researcher__<br>
 Development of TFE4188 - Advanced Integrated Circuits
 
