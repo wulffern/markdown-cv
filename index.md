@@ -44,15 +44,15 @@ __R & D Engineer__  <br>
 
 `2021-` __Associate Professor__<br>
 - TFE4188 - Advanced Integrated Circuits (2022)
-- TFE4152 - Design of Integrated Circuits (2021)
+- TFE4152 - Design of Integrated Circuits (2021)<br>
 
 `2020-2021` __Guest Researcher__<br>
-Development of TFE4188 - Advanced Integrated Circuits
+Development of TFE4188 - Advanced Integrated Circuits<br>
 
 `2014-2017`__Post.Doc__<br>
 - [A Compiled 9-bit 20-MS/s 3.5-fJ/conv.step SAR ADC in 28-nm FDSOI for Bluetooth
 Low Energy Receivers](https://ieeexplore.ieee.org/document/7906479), IEEE
-Journal of Solid-State Circuits
+Journal of Solid-State Circuits<br>
 
 `2004-2008`
 __Ph.D. student__<br>
