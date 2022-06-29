@@ -18,9 +18,8 @@ Analog designer, programmer, educator and group manager
 
 `2015-now`
 __Group Manager, Wireless__<br>
-- Recruited 20+ people<br>
+- Recruited 20+ people
 - Active in Bluetooth Special Interest Group; Core Specification Working Group
-  and Exposure Notification Working Group
 - Analog design nRF53
 - Tool development (Python/C)
 - Embedded programming (nRF52/nRF53)
@@ -42,6 +41,12 @@ __R & D Engineer__  <br>
 - Tool development (Perl)
 
 ### NTNU
+
+`2021-` Associate Professor<br>
+- TFE4152 - Design of Integrated Circuits (2021)
+- TFE4188 - Advanced Integrated Circuits (2022)
+
+`2020-2021` Guest Researcher<br>
 
 `2014-2017`__Post.Doc__<br>
 - [A Compiled 9-bit 20-MS/s 3.5-fJ/conv.step SAR ADC in 28-nm FDSOI for Bluetooth
