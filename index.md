@@ -76,8 +76,11 @@ Linux administration<br>
 
 ## Lecture experience
 
-`2020-now`
-TFE4152 - Design of Integrated Circuits, TFE4188 - Advanced Integrated Circuits
+`2022-now`
+TFE4188 - Advanced Integrated Circuits
+
+`2021`
+TFE4152 - Design of Integrated Circuits
 
 `2010-now` 
 Guest lectures at NTNU every year, some of the presentations can be found at [http://www.wulff.no/presentations](http://www.wulff.no/presentations)
