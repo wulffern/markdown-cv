@@ -316,7 +316,7 @@ Harald Garvik
 
 `2021` **E.V.R Robstad** [Mapping Wireless Network Nodes Automatically to a Predefined Set of Positions using Distance Measurements](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2823429)
 
-`2021` M.G. Aalien [Development and Optimization of a Contact Tracing Wearable](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2788499)
+`2021` **M.G. Aalien** [Development and Optimization of a Contact Tracing Wearable](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2788499)
 
 `2021` **F.E Feyling** [Design Considerations for a Low-Power Control-Bounded A/D Converter](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2824253)
 
