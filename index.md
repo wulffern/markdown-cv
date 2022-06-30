@@ -288,7 +288,7 @@ of thought that might be difficult to follow.
 [Reference voltages](https://patents.google.com/patent/US20180143659A1/en)
 
 `2017`
-[Power supply circuits](https://patents.google.com/patent/US20200266816A)
+[Power supply circuits](https://patents.google.com/patent/US20200266816A1)
 
 `2017`
 [Integrated circuits](https://patents.google.com/patent/US20170353029A1/en)
@@ -358,9 +358,9 @@ ADC in 22nm FDSOI](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624661)
 
 
 ## Hobbies
-[Trail-running and Bouldering](https://www.youtube.com/channel/UC21MFtsMZBT9UkbcLe4UZnw)
+[Trail-running, Rando and Bouldering](https://www.instagram.com/cwulffern/?hl=en)
 
 
 <!-- ### Footer
 
-Last updated: May 2020 -->
+Last updated: June 2022 -->
