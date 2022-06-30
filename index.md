@@ -269,8 +269,26 @@ of thought that might be difficult to follow.
 
 ### Patents
 
+`2020`
+[Exchange of ranging data](https://patents.google.com/patent/WO2022117557A1)
+
+`2020`
+[Ranging between radio devices](https://patents.google.com/patent/WO2022117523A2)
+
+`2020`
+[Radio frequency distance determination](https://patents.google.com/patent/US20220171047A1)
+
+`2020`
+[Peripheral interconnect controller](https://patents.google.com/patent/WO2022119448A1)
+
+`2020`
+[Digital radio communications](https://patents.google.com/patent/EP4009585A1)
+
 `2018`
 [Reference voltages](https://patents.google.com/patent/US20180143659A1/en)
+
+`2017`
+[Power supply circuits](https://patents.google.com/patent/US20200266816A)
 
 `2017`
 [Integrated circuits](https://patents.google.com/patent/US20170353029A1/en)
@@ -285,6 +303,9 @@ of thought that might be difficult to follow.
 ## Co-Supervisor
 ### Ph.D. students
 
+`2021-now`
+Fredrik Esp Feyling
+
 `2019-now`
 Olivia Mirea
 
@@ -292,6 +313,12 @@ Olivia Mirea
 Harald Garvik
 
 ### Master Students
+
+`2021` **E.V.R Robstad** [Mapping Wireless Network Nodes Automatically to a Predefined Set of Positions using Distance Measurements](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2823429)
+
+`2021` M.G. Aalien [Development and Optimization of a Contact Tracing Wearable](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2788499)
+
+`2021` **F.E Feyling** [Design Considerations for a Low-Power Control-Bounded A/D Converter](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2824253)
 
 `2020`
 **H. Nyholm** Localizing Sheep using a Bluetooth Low Energy enabled Unmanned Aerial Vehicle for Round-trip Time of Arrival-based Multilateriation
