@@ -45,7 +45,7 @@ __R & D Engineer__  <br>
 `2021-now` __Associate Professor__<br>
 - TFE4188 - Advanced Integrated Circuits (2022)
 - TFE4152 - Design of Integrated Circuits (2021)<br>
-- *Research goal:* Create a new analog design paradigm, how we design analog
+- _Research goal:__ Create a new analog design paradigm, how we design analog
   circuits is too slow. 
 
 `2020-2021` __Guest Researcher__<br>
