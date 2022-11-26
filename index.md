@@ -78,6 +78,12 @@ Linux administration<br>
 
 ## Lecture experience
 
+`2022-now`
+TFE4188 - Advanced Integrated Circuits
+
+`2021`
+TFE4152 - Design of Integrated Circuits
+
 `2010-now` 
 Guest lectures at NTNU every year, some of the presentations can be found at [http://www.wulff.no/presentations](http://www.wulff.no/presentations)
 
@@ -273,8 +279,26 @@ of thought that might be difficult to follow.
 
 ### Patents
 
+`2020`
+[Exchange of ranging data](https://patents.google.com/patent/WO2022117557A1)
+
+`2020`
+[Ranging between radio devices](https://patents.google.com/patent/WO2022117523A2)
+
+`2020`
+[Radio frequency distance determination](https://patents.google.com/patent/US20220171047A1)
+
+`2020`
+[Peripheral interconnect controller](https://patents.google.com/patent/WO2022119448A1)
+
+`2020`
+[Digital radio communications](https://patents.google.com/patent/EP4009585A1)
+
 `2018`
 [Reference voltages](https://patents.google.com/patent/US20180143659A1/en)
+
+`2017`
+[Power supply circuits](https://patents.google.com/patent/US20200266816A1)
 
 `2017`
 [Integrated circuits](https://patents.google.com/patent/US20170353029A1/en)
@@ -289,6 +313,9 @@ of thought that might be difficult to follow.
 ## Co-Supervisor
 ### Ph.D. students
 
+`2021-now`
+Fredrik Esp Feyling
+
 `2019-now`
 Olivia Mirea
 
@@ -296,6 +323,12 @@ Olivia Mirea
 Harald Garvik
 
 ### Master Students
+
+`2021` **E.V.R Robstad** [Mapping Wireless Network Nodes Automatically to a Predefined Set of Positions using Distance Measurements](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2823429)
+
+`2021` **M.G. Aalien** [Development and Optimization of a Contact Tracing Wearable](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2788499)
+
+`2021` **F.E Feyling** [Design Considerations for a Low-Power Control-Bounded A/D Converter](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2824253)
 
 `2020`
 **H. Nyholm** Localizing Sheep using a Bluetooth Low Energy enabled Unmanned Aerial Vehicle for Round-trip Time of Arrival-based Multilateriation
@@ -335,9 +368,9 @@ ADC in 22nm FDSOI](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624661)
 
 
 ## Hobbies
-[Trail-running and Bouldering](https://www.youtube.com/channel/UC21MFtsMZBT9UkbcLe4UZnw)
+[Trail-running, Rando and Bouldering](https://www.instagram.com/cwulffern/?hl=en)
 
 
 <!-- ### Footer
 
-Last updated: May 2020 -->
+Last updated: June 2022 -->
