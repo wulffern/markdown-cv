@@ -101,8 +101,8 @@ SystemC, Verilog, and probably a few I've forgotten. These days, it's usually
 Python, C and C++. 
 
 `2019-now`
-[Python front-end to ciccreator](https://github.com/wulffern/cicpy) -- Python
-[Simulation toolbox](https://github.com/wulffern/cicsim) -- Python
+[Python front-end to ciccreator](https://github.com/wulffern/cicpy) -- Python<br>
+[Simulation toolbox](https://github.com/wulffern/cicsim) -- Python<br>
 [Configuration toolbox](https://github.com/wulffern/cicconf) -- Python
 
 `2009-now`
