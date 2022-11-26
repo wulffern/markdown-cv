@@ -18,7 +18,7 @@ Analog designer, programmer, educator and group manager
 
 `2015-now`
 __Group Manager, Wireless__<br>
-- Recruited 20+ people
+- Recruited 30+ people
 - Active in Bluetooth Special Interest Group; Core Specification Working Group
 - Analog design nRF53
 - Tool development (Python/C)
@@ -45,6 +45,8 @@ __R & D Engineer__  <br>
 `2021-` __Associate Professor__<br>
 - TFE4188 - Advanced Integrated Circuits (2022)
 - TFE4152 - Design of Integrated Circuits (2021)<br>
+- **Research goal:** Create a new analog design paradigm, how we design analog
+  circuits is too slow. 
 
 `2020-2021` __Guest Researcher__<br>
 Development of TFE4188 - Advanced Integrated Circuits<br>
@@ -94,6 +96,8 @@ Python, C and C++.
 
 `2019-now`
 [Python front-end to ciccreator](https://github.com/wulffern/cicpy) -- Python
+[Simulation toolbox](https://github.com/wulffern/cicsim) -- Python
+[Configuration toolbox](https://github.com/wulffern/cicconf) -- Python
 
 `2009-now`
 [Rapid layout generation tool for SAR
