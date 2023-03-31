@@ -17,12 +17,12 @@ Analog designer, programmer, educator and group manager
 ### Nordic Semiconductor
 
 `2023-now`
-__Principle IC Scientist__<br>
+__Principal IC Scientist__<br>
 - Science advisor to the director of IC Development
 
 `2015-2023`
 __Group Manager, Wireless__<br>
-- Recruited 30+ people
+- Recruited 40+ people
 - Active in Bluetooth Special Interest Group; Core Specification Working Group
 - Analog design nRF53
 - Tool development (Python/C)
