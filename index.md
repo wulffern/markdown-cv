@@ -3,7 +3,7 @@ layout: cv
 title: Carsten Wulff
 ---
 # Carsten Wulff
-Analog designer, programmer, educator and group manager 
+Analog designer, programmer and educator
 
 <div id="webaddress">
 <a href="carsten@wulff.no">carsten@wulff.no</a>
