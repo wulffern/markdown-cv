@@ -16,7 +16,11 @@ Analog designer, programmer, educator and group manager
 
 ### Nordic Semiconductor
 
-`2015-now`
+`2023-now`
+__Principle IC Scientist__<br>
+- Science advisor to the director of IC Development
+
+`2015-2023`
 __Group Manager, Wireless__<br>
 - Recruited 30+ people
 - Active in Bluetooth Special Interest Group; Core Specification Working Group
