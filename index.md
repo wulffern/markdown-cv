@@ -165,7 +165,7 @@ IEEE Journal of Solid-State Circuits, Vol: 52, Issue: 7, July 2017
 **Wulff, C**; Ytterdal, T. ["Comparator-based switched-capacitor pipelined analog-to-digital converter with comparator preset, and comparator delay compensation"](https://link.springer.com/article/10.1007/s10470-010-9576-3), Analog Integrated Circuits and Signal Processing, December 2010 , © Springer
 
 `2009`
-L. Lewyn, T. Ytterdal, C. Wulff, and K. Martin,
+L. Lewyn, T. Ytterdal, **C. Wulff**, and K. Martin,
 ["Analog Circuit Design in Nanoscale CMOS Technologies"](http://ieeexplore.ieee.org/search/srchabstract.jsp?arnumber=5247174&isnumber=5247123&punumber=5&k2dockey=5247174@ieeejrns),
 Proceedings of the IEEE , Vol: 97 , No: 10, 2009 DOI:
 10.1109/JPROC.2009.2024663 © IEEE
