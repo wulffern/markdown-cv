@@ -18,7 +18,7 @@ Analog designer, programmer, educator and group manager
 
 `2023-now`
 __Principal IC Scientist__<br>
-- Science advisor to the director of IC Development
+- Science advisor to the Director of IC Development
 
 `2015-2023`
 __Group Manager, Wireless__<br>
