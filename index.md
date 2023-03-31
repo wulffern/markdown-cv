@@ -47,9 +47,11 @@ __R & D Engineer__  <br>
 ### NTNU
 
 `2021-now` __Associate Professor__<br>
+- [aicex](https://analogicus.com/aicex/)
 - [TFE4188 - Advanced Integrated Circuits (2023)](https://analogicus.com/aic2023/)
 - [TFE4188 - Advanced Integrated Circuits (2022)](https://github.com/wulffern/aic2022/)
 - [TFE4152 - Design of Integrated Circuits (2021)](https://analogicus.com/dic2021/)<br>
+- [dicex](https://analogicus.com/dicex/)
 - _Research goal:_ I'd love to simplify analog integrated circuit design
 
 `2020-2021` __Guest Researcher__<br>
@@ -100,7 +102,7 @@ and CMOS modeling
 
 I've had a love of programming since my first real summer internship back
 in 1999. Over the years I've programmed in Visual BASIC, PHP, Ruby, Perl, C#,
-SKILL, Ocean, Verilog-A, C++, BASH, AWK, VHDL, SPICE, MATLAB, ASP, Java, C,
+SKILL, Ocean, Verilog-A, C++, Go, BASH, AWK, VHDL, SPICE, MATLAB, ASP, Java, C,
 SystemC, Verilog, and probably a few I've forgotten. These days, it's usually
 Python, C and C++. 
 
