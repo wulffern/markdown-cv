@@ -47,8 +47,9 @@ __R & D Engineer__  <br>
 ### NTNU
 
 `2021-now` __Associate Professor__<br>
-- TFE4188 - Advanced Integrated Circuits (2022)
-- TFE4152 - Design of Integrated Circuits (2021)<br>
+- [TFE4188 - Advanced Integrated Circuits (2023)](https://analogicus.com/aic2023/)
+- [TFE4188 - Advanced Integrated Circuits (2022)](https://github.com/wulffern/aic2022/)
+- [TFE4152 - Design of Integrated Circuits (2021)](https://analogicus.com/dic2021/)<br>
 - _Research goal:_ I'd love to simplify analog integrated circuit design
 
 `2020-2021` __Guest Researcher__<br>
@@ -88,7 +89,7 @@ TFE4188 - Advanced Integrated Circuits
 TFE4152 - Design of Integrated Circuits
 
 `2010-now` 
-Guest lectures at NTNU every year, some of the presentations can be found at [http://www.wulff.no/presentations](http://www.wulff.no/presentations)
+Guest lectures at NTNU every year.
 
 `2006`
 TFE4200, Analog integrated circuits, responsible for frequency response, noise
