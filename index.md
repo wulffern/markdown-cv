@@ -294,16 +294,12 @@ of thought that might be difficult to follow.
 `2020`
 [Exchange of ranging data](https://patents.google.com/patent/WO2022117557A1)
 
-`2020`
 [Ranging between radio devices](https://patents.google.com/patent/WO2022117523A2)
 
-`2020`
 [Radio frequency distance determination](https://patents.google.com/patent/US20220171047A1)
 
-`2020`
 [Peripheral interconnect controller](https://patents.google.com/patent/WO2022119448A1)
 
-`2020`
 [Digital radio communications](https://patents.google.com/patent/EP4009585A1)
 
 `2018`
