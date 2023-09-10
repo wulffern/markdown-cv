@@ -308,13 +308,11 @@ of thought that might be difficult to follow.
 `2017`
 [Power supply circuits](https://patents.google.com/patent/US20200266816A1)
 
-`2017`
 [Integrated circuits](https://patents.google.com/patent/US20170353029A1/en)
 
 `2015`
 [Integrated power-on-reset circuit](https://patents.google.com/patent/US9065451B2/en)
 
-`2015`
 [Analogue-to-digital converter](https://patents.google.com/patent/US8947280B2/en)
 
 
