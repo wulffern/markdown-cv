@@ -329,15 +329,18 @@ Olivia Mirea
 Harald Garvik
 
 ### Master Students
+`2023` 
+**Jonathan Sæthre Ege; Sondre Hånes Egge** [Design and implementation of a 0.01 mm²﻿﻿ current-mode temperature sensor in 22 nm FD-SOI with a sensing range of -40 ﻿°C to 125 °C and 6.3 nW ﻿at 0.8 V](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3084655)
 
-`2021` **E.V.R Robstad** [Mapping Wireless Network Nodes Automatically to a Predefined Set of Positions using Distance Measurements](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2823429)
+`2021` 
+**E.V.R Robstad** [Mapping Wireless Network Nodes Automatically to a Predefined Set of Positions using Distance Measurements](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2823429)
 
-`2021` **M.G. Aalien** [Development and Optimization of a Contact Tracing Wearable](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2788499)
+**M.G. Aalien** [Development and Optimization of a Contact Tracing Wearable](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2788499)
 
-`2021` **F.E Feyling** [Design Considerations for a Low-Power Control-Bounded A/D Converter](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2824253)
+**F.E Feyling** [Design Considerations for a Low-Power Control-Bounded A/D Converter](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2824253)
 
 `2020`
-**H. Nyholm** Localizing Sheep using a Bluetooth Low Energy enabled Unmanned Aerial Vehicle for Round-trip Time of Arrival-based Multilateriation
+**H. Nyholm** [Localizing Sheep using a Bluetooth Low Energy enabled Unmanned Aerial Vehicle for Round-trip Time of Arrival-based Multilateriation](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2778147)
 
 **C. Nielsen**;  [Ultra Low Power Frequency Synthesizer](https://github.com/nielscol/thesis/blob/master/report.pdf)
 
