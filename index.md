@@ -285,6 +285,12 @@ of thought that might be difficult to follow.
 
 ### Patents
 
+`2022`
+[Fast-locking all-digital phase-locked loop and applications thereof](https://patents.google.com/patent/WO2022263348A1/en?inventor=Carsten+WULFF&sort=new)
+
+`2021`
+[Device locations using machine learning](https://patents.google.com/patent/WO2022238508A1/en?inventor=Carsten+WULFF&sort=new)
+
 `2020`
 [Exchange of ranging data](https://patents.google.com/patent/WO2022117557A1)
 
