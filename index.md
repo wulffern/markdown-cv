@@ -47,11 +47,13 @@ __R & D Engineer__  <br>
 ### NTNU
 
 `2021-now` __Associate Professor__<br>
-- [aicex](https://analogicus.com/aicex/)
-- [TFE4188 - Advanced Integrated Circuits (2023)](https://analogicus.com/aic2023/)
-- [TFE4188 - Advanced Integrated Circuits (2022)](https://github.com/wulffern/aic2022/)
+
+- [aicex](https://analogicus.com/aicex/)<br>
+- [TFE4188 - Advanced Integrated Circuits (2024)](https://analogicus.com/aic2024/)<br>
+- [TFE4188 - Advanced Integrated Circuits (2023)](https://analogicus.com/aic2023/)<br>
+- [TFE4188 - Advanced Integrated Circuits (2022)](https://github.com/wulffern/aic2022/)<br>
 - [TFE4152 - Design of Integrated Circuits (2021)](https://analogicus.com/dic2021/)<br>
-- [dicex](https://analogicus.com/dicex/)
+- [dicex](https://analogicus.com/dicex/)<br>
 - _Research goal:_ I'd love to simplify analog integrated circuit design
 
 `2020-2021` __Guest Researcher__<br>
@@ -316,8 +318,11 @@ of thought that might be difficult to follow.
 [Analogue-to-digital converter](https://patents.google.com/patent/US8947280B2/en)
 
 
-## Co-Supervisor
+## Supervisor/Co-Supervisor
 ### Ph.D. students
+
+`2023-now`
+Jonathan Sæthre Ege
 
 `2021-now`
 Fredrik Esp Feyling
@@ -329,7 +334,13 @@ Olivia Mirea
 Harald Garvik
 
 ### Master Students
-`2023` 
+`2023`
+**Jenny Aune Forbord** [Bayesian range estimate from two-directional phase measurements](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3108850)
+
+**Mathias Olsen** [Design and Optimization of a 2.4 GHz, 30 dBm Power Amplifier Utilizing Drain Modulation for Enhanced Efficiency](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3095895)
+
+**Johan Nicolas Suarez Lojan** [Improving Accuracy of MCPD Distance Measurements](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3093198)
+
 **Jonathan Sæthre Ege; Sondre Hånes Egge** [Design and implementation of a 0.01 mm²﻿﻿ current-mode temperature sensor in 22 nm FD-SOI with a sensing range of -40 ﻿°C to 125 °C and 6.3 nW ﻿at 0.8 V](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3084655)
 
 `2021` 
