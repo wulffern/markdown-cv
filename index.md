@@ -3,7 +3,7 @@ layout: cv
 title: Carsten Wulff
 ---
 # Carsten Wulff
-Analog designer, programmer and educator
+IC expert, programmer and educator
 
 <div id="webaddress">
 <a href="carsten@wulff.no">carsten@wulff.no</a>
@@ -18,12 +18,15 @@ Analog designer, programmer and educator
 
 `2023-now`
 __Principal IC Scientist__<br>
-- Science advisor to the Director of IC Development
+- ESD root cause analysis 
+- Non-Volatile Memory characterization, test program development, qualification and data analysis
+- Key Account Tier 3+ Support
 
 `2015-2023`
 __Group Manager, Wireless__<br>
 - Recruited 40+ people
 - Active in Bluetooth Special Interest Group; Core Specification Working Group
+  (Channel Sounding)
 - Analog design nRF53
 - Tool development (Python/C)
 - Embedded programming (nRF52/nRF53)
@@ -32,7 +35,6 @@ __Group Manager, Wireless__<br>
 __Team Lead__ <br> 
 - Analog design nRF91
 - Tool development (Perl)
-
 
 `2011-2014` 
 __Senior R & D Engineer__ <br>
@@ -49,6 +51,7 @@ __R & D Engineer__  <br>
 `2021-now` __Associate Professor__<br>
 
 - [aicex](https://analogicus.com/aicex/)<br>
+- [TFE4188 - Advanced Integrated Circuits (2025)](https://analogicus.com/aic2025/)<br>
 - [TFE4188 - Advanced Integrated Circuits (2024)](https://analogicus.com/aic2024/)<br>
 - [TFE4188 - Advanced Integrated Circuits (2023)](https://analogicus.com/aic2023/)<br>
 - [TFE4188 - Advanced Integrated Circuits (2022)](https://github.com/wulffern/aic2022/)<br>
@@ -155,16 +158,16 @@ Scholar](https://scholar.google.no/citations?user=uMepikoAAAAJ&hl=no&oi=sra)<br>
 ### Books
 
 `2003`
-Tor A. Fjeldly, Michael S. Shur "Lab on the Web: Running Real Electronics Experiments via the Internet" Chapter 4: Carsten Wulff, Trond Ytterdal, Thomas Aas Sæthre, Arne Skjevlan, [“NEXT GENERATION LABORATORY - A solution for remote characterization of analog integrated circuits”](http://www.amazon.com/exec/obidos/tg/detail/-/0471413755/qid=1107338747/sr=1-1/ref=sr_1_1/102-5318187-3493748?v=glance&s=books), ISBN: 0-471-41375-5, Wiley, 2003
+Tor A. Fjeldly, Michael S. Shur "Lab on the Web: Running Real Electronics Experiments via the Internet" Chapter 4: Carsten Wulff, Trond Ytterdal, Thomas Aas Sæthre, Arne Skjevlan, [“NEXT GENERATION LABORATORY - A solution for remote characterization of analog integrated circuits”](http://www.amazon.com/exec/obidos/tg/detail/-/0471413755/qid=1107338747/sr=1-1/ref=sr_1_1/102-5318187-3493748?v=glance&s=books), ISBN: 0-471-41375-5, Wiley, 2003 [PDF](https://github.com/wulffern/wulffern.github.io/blob/main/publications/NGL.Book.Chapter.pdf)
 
 ### Journal Papers
 `2017`
 **Wulff, C**;
 Ytterdal. T. [A Compiled 9-bit 20-MS/s 3.5-fJ/conv.step SAR ADC in 28-nm FDSOI for Bluetooth Low Energy Receivers](http://ieeexplore.ieee.org/document/7906479/),
-IEEE Journal of Solid-State Circuits, Vol: 52, Issue: 7, July 2017
+IEEE Journal of Solid-State Circuits, Vol: 52, Issue: 7, July 2017 [PDF](https://github.com/wulffern/wulffern.github.io/blob/main/publications/wulff17.pdf)
 
 `2010`
-**Wulff, C**; Ytterdal, T. ["Comparator-based switched-capacitor pipelined analog-to-digital converter with comparator preset, and comparator delay compensation"](https://link.springer.com/article/10.1007/s10470-010-9576-3), Analog Integrated Circuits and Signal Processing, December 2010 , © Springer
+**Wulff, C**; Ytterdal, T. ["Comparator-based switched-capacitor pipelined analog-to-digital converter with comparator preset, and comparator delay compensation"](https://link.springer.com/article/10.1007/s10470-010-9576-3), Analog Integrated Circuits and Signal Processing, December 2010 , © Springer [PDF](https://github.com/wulffern/wulffern.github.io/blob/main/publications/wulff10.pdf)
 
 `2009`
 L. Lewyn, T. Ytterdal, **C. Wulff**, and K. Martin,
@@ -287,11 +290,14 @@ of thought that might be difficult to follow.
 
 ### Patents
 
+`2023`
+[Mitigating interference in radio devices](https://patents.google.com/patent/WO2024184483A1/en)
+
 `2022`
-[Fast-locking all-digital phase-locked loop and applications thereof](https://patents.google.com/patent/WO2022263348A1/en?inventor=Carsten+WULFF&sort=new)
+[Fast-locking all-digital phase-locked loop and applications thereof](https://patents.google.com/patent/WO2022263348A1/en)
 
 `2021`
-[Device locations using machine learning](https://patents.google.com/patent/WO2022238508A1/en?inventor=Carsten+WULFF&sort=new)
+[Device locations using machine learning](https://patents.google.com/patent/WO2022238508A1/en)
 
 `2020`
 [Exchange of ranging data](https://patents.google.com/patent/WO2022117557A1)
@@ -327,13 +333,19 @@ Jonathan Sæthre Ege
 `2021-now`
 Fredrik Esp Feyling
 
-`2019-now`
-Olivia Mirea
+`2020-now`
+Shankkar Balasubramanian
 
-`2015-now` 
-Harald Garvik
 
 ### Master Students
+`2024`
+
+**Ji Soo Ahn** [Analog Modeling and Implementation of SoC using Open-Source Tools](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3154624)
+
+**Victor Moland** [Optimization and layout of a General Purpose High Swing Digital-to-Analog Converter for Low Power Applications](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3159724)
+
+**Filip Jozef Paw** [Highly Duty-Cycled Reference Circuit](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3167345)
+
 `2023`
 **Jenny Aune Forbord** [Bayesian range estimate from two-directional phase measurements](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3108850)
 
@@ -386,6 +398,12 @@ ADC in 22nm FDSOI](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624661)
 `2003`
 **V. Pedersen**; NGL webgrensesnitt for FPGA med mikrokontroller
 
+## Bachelor students
+
+`2024`
+
+**Ellen Iren Johnsen**, [Utvikling and prototyping av IoT node for distribusjon av fastvare](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3138694)
+
 
 ## Hobbies
 [Trail-running, Rando and Bouldering](https://www.instagram.com/cwulffern/?hl=en)
@@ -393,4 +411,4 @@ ADC in 22nm FDSOI](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624661)
 
 <!-- ### Footer
 
-Last updated: June 2022 -->
+Last updated: March 2025 -->
