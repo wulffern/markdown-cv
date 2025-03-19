@@ -6,7 +6,7 @@ title: Carsten Wulff
 IC expert, programmer and educator
 
 <div id="webaddress">
-<a href="carsten@wulff.no">carsten@wulff.no</a>
+<a href="mailto:carsten@wulff.no">carsten@wulff.no</a>
 | <a href="http://www.wulff.no">Homepage</a>
 | <a href="http://wulffern.github.io/markdown-cv">CV</a>
 </div>
