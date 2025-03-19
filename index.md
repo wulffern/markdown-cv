@@ -27,23 +27,23 @@ __Group Manager, Wireless__<br>
 - Recruited 40+ people
 - Active in Bluetooth Special Interest Group; Core Specification Working Group
   (Channel Sounding)
-- Analog design nRF53
+- Analog design nRF53 (Radio ADC, SAADC nRF53)
 - Tool development (Python/C)
 - Embedded programming (nRF52/nRF53)
 
 `2014-2015` 
 __Team Lead__ <br> 
-- Analog design nRF91
+- Analog design nRF91 (DC/DC)
 - Tool development (Perl)
 
 `2011-2014` 
 __Senior R & D Engineer__ <br>
-- Analog design nRF52
+- Analog design nRF52 (Radio ADC, SAADC, DC/DC, GPIO)
 - Tool development (Perl)
 
 `2008-2011` 
 __R & D Engineer__  <br>
-- Analog design nRF51
+- Analog design nRF51 (ADC)
 - Tool development (Perl)
 
 ### NTNU
