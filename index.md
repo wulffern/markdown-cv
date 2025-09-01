@@ -20,7 +20,7 @@ IC expert, programmer and educator
 __Principal IC Scientist__<br>
 - ESD root cause analysis 
 - Non-Volatile Memory characterization, test program development, qualification
-  and data analysis (endurance, retention, qualification, wafer patterns, jupyter, pandas, numpy, visualization)
+  and data analysis (endurance, retention, wafer patterns, jupyter, pandas, numpy, visualization)
 - Key Account Support
 
 `2015-2023`
