@@ -19,8 +19,9 @@ IC expert, programmer and educator
 `2023-now`
 __Principal IC Scientist__<br>
 - ESD root cause analysis 
-- Non-Volatile Memory characterization, test program development, qualification and data analysis
-- Key Account Tier 3+ Support
+- Non-Volatile Memory characterization, test program development, qualification
+  and data analysis (endurance, retention, qualification, wafer patterns, jupyter, pandas, numpy, visualization)
+- Key Account Support
 
 `2015-2023`
 __Group Manager, Wireless__<br>
