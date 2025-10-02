@@ -155,16 +155,26 @@ Scholar](https://scholar.google.no/citations?user=uMepikoAAAAJ&hl=no&oi=sra)<br>
 ### Books
 
 `2003`
-Tor A. Fjeldly, Michael S. Shur "Lab on the Web: Running Real Electronics Experiments via the Internet" Chapter 4: Carsten Wulff, Trond Ytterdal, Thomas Aas Sæthre, Arne Skjevlan, [“NEXT GENERATION LABORATORY - A solution for remote characterization of analog integrated circuits”](http://www.amazon.com/exec/obidos/tg/detail/-/0471413755/qid=1107338747/sr=1-1/ref=sr_1_1/102-5318187-3493748?v=glance&s=books), ISBN: 0-471-41375-5, Wiley, 2003
+Tor A. Fjeldly, Michael S. Shur "Lab on the Web: Running Real Electronics Experiments via the Internet" Chapter 4: Carsten Wulff, Trond Ytterdal, Thomas Aas Sæthre, Arne Skjevlan, [“NEXT GENERATION LABORATORY - A solution for remote characterization of analog integrated circuits”](http://www.amazon.com/exec/obidos/tg/detail/-/0471413755/qid=1107338747/sr=1-1/ref=sr_1_1/102-5318187-3493748?v=glance&s=books), ISBN: 0-471-41375-5, Wiley, 2003 [PDF](https://github.com/wulffern/wulffern.github.io/blob/main/publications/NGL.Book.Chapter.pdf)
 
 ### Journal Papers
+
+`2025`
+Balasubramanian, S; Vaesen, K;Wambacq, P; **Wulff, C** [A Compact Current-Reusing 6-mW 66-92 GHz Frequency Quadrupler With 5% Peak Power Added Efficiency and> 36 dBc Harmonic Rejection in 22-nm FDSOI CMOS](https://ieeexplore.ieee.org/abstract/document/11178244/),IEEE Solid-State Circuits Letters
+
+`2024`
+Balasubramanian, S; Vaesen, K; Kankuppe, A;Park, S; **Wulff, C** [A D-band 13-mW Dual-Mode CMOS LNA for Joint Radar-Communication in 22-nm FD-SOI CMOS](https://ieeexplore.ieee.org/abstract/document/10669787), EEE Solid-State Circuits Letters
+
+`2023`
+Feyling,F; Malmberg, H; **Wulff, C**; Loeliger, H; Ytterdal,T [Design and analysis of the leapfrog control-bounded A/D converter](https://ieeexplore.ieee.org/abstract/document/10287272/), IEEE Transactions on Very Large Scale Integration (VLSI) Systems
+
 `2017`
 **Wulff, C**;
 Ytterdal. T. [A Compiled 9-bit 20-MS/s 3.5-fJ/conv.step SAR ADC in 28-nm FDSOI for Bluetooth Low Energy Receivers](http://ieeexplore.ieee.org/document/7906479/),
-IEEE Journal of Solid-State Circuits, Vol: 52, Issue: 7, July 2017
+IEEE Journal of Solid-State Circuits, Vol: 52, Issue: 7, July 2017 [PDF](https://github.com/wulffern/wulffern.github.io/blob/main/publications/wulff17.pdf)
 
 `2010`
-**Wulff, C**; Ytterdal, T. ["Comparator-based switched-capacitor pipelined analog-to-digital converter with comparator preset, and comparator delay compensation"](https://link.springer.com/article/10.1007/s10470-010-9576-3), Analog Integrated Circuits and Signal Processing, December 2010 , © Springer
+**Wulff, C**; Ytterdal, T. ["Comparator-based switched-capacitor pipelined analog-to-digital converter with comparator preset, and comparator delay compensation"](https://link.springer.com/article/10.1007/s10470-010-9576-3), Analog Integrated Circuits and Signal Processing, December 2010 , © Springer [PDF](https://github.com/wulffern/wulffern.github.io/blob/main/publications/wulff10.pdf)
 
 `2009`
 L. Lewyn, T. Ytterdal, **C. Wulff**, and K. Martin,
@@ -180,6 +190,20 @@ Proceedings of the IEEE , Vol: 97 , No: 10, 2009 DOI:
 
 
 ### Conference Papers
+
+
+
+`2024`
+Moland, V; **Wulff, C**; Przyborowski, D [General-Purpose High Swing Digital-to-Analog Converter for Low Power Applications](https://ieeexplore.ieee.org/abstract/document/10614030/), 2024 31st International Conference on Mixed Design of Integrated Circuits and System (MIXDES)
+
+`2023`
+Balasubramanian, S; **Wulff, C**; Ytterdal, T [A 160-GHz Power Amplifier with 32-dB Gain and 9.8% Peak PAE in 28-nm FD-SOI](https://ieeexplore.ieee.org/abstract/document/10181360), 2023 IEEE International Symposium on Circuits and Systems (ISCAS)
+
+`2022`
+Feyling,F; Malmberg, H; **Wulff, C**; Loeliger, H; Ytterdal,T [High-level comparison of control-bounded A/D converters and continuous-time sigma-delta modulators](https://ieeexplore.ieee.org/abstract/document/9934426/), 2022 IEEE Nordic Circuits and Systems Conference (NorCAS)
+
+`2021`
+Mirea,O; **Wulff, C**; Ytterdal,T [Current-reuse low-power single-ended to differential lna for medical ultrasound imaging](https://ieeexplore.ieee.org/abstract/document/9547994), PRIME 2021
 
 `2019`
 Garvik,H; **Wulff, C**; Ytterdal,T [A 68 dB SNDR Compiled Noise-Shaping SAR ADC With On-Chip CDAC Calibration](https://ieeexplore.ieee.org/abstract/document/9056925/)
@@ -286,6 +310,12 @@ of thought that might be difficult to follow.
 
 
 ### Patents
+
+`2024`
+[Switched capacitor power amplifier](https://patents.google.com/patent/US20250080059A1/en)
+
+`2023`
+[Mitigating interference in radio devices](https://patents.google.com/patent/WO2024184483A1)
 
 `2022`
 [Fast-locking all-digital phase-locked loop and applications thereof](https://patents.google.com/patent/WO2022263348A1/en?inventor=Carsten+WULFF&sort=new)
