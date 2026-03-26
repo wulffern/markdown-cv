@@ -163,7 +163,7 @@ Scholar](https://scholar.google.no/citations?user=uMepikoAAAAJ&hl=no&oi=sra)<br>
 ### Books
 
 `2003`
-Tor A. Fjeldly, Michael S. Shur "Lab on the Web: Running Real Electronics Experiments via the Internet" Chapter 4: Carsten Wulff, Trond Ytterdal, Thomas Aas Sæthre, Arne Skjevlan, [“NEXT GENERATION LABORATORY - A solution for remote characterization of analog integrated circuits”](http://www.amazon.com/exec/obidos/tg/detail/-/0471413755/qid=1107338747/sr=1-1/ref=sr_1_1/102-5318187-3493748?v=glance&s=books), ISBN: 0-471-41375-5, Wiley, 2003 [PDF](https://github.com/wulffern/wulffern.github.io/blob/main/publications/NGL.Book.Chapter.pdf)
+Tor A. Fjeldly, Michael S. Shur "Lab on the Web: Running Real Electronics Experiments via the Internet" Chapter 4: Carsten Wulff, Trond Ytterdal, Thomas Aas Sæthre, Arne Skjevlan, [“NEXT GENERATION LABORATORY - A solution for remote characterization of analog integrated circuits”](http://www.amazon.com/exec/obidos/tg/detail/-/0471413755/qid=1107338747/sr=1-1/ref=sr_1_1/102-5318187-3493748?v=glance&s=books), ISBN: 0-471-41375-5, Wiley, 2003 [PDF](https://github.com/wulffern/wulffern.github.io/blob/main/docs/assets/publications/NGL.Book.Chapter.pdf)
 
 ### Journal Papers
 
@@ -179,10 +179,10 @@ Feyling,F; Malmberg, H; **Wulff, C**; Loeliger, H; Ytterdal,T [Design and analys
 `2017`
 **Wulff, C**;
 Ytterdal. T. [A Compiled 9-bit 20-MS/s 3.5-fJ/conv.step SAR ADC in 28-nm FDSOI for Bluetooth Low Energy Receivers](http://ieeexplore.ieee.org/document/7906479/),
-IEEE Journal of Solid-State Circuits, Vol: 52, Issue: 7, July 2017 [PDF](https://github.com/wulffern/wulffern.github.io/blob/main/publications/wulff17.pdf)
+IEEE Journal of Solid-State Circuits, Vol: 52, Issue: 7, July 2017 [PDF](https://github.com/wulffern/wulffern.github.io/blob/main/docs/assets/publications/wulff17.pdf)
 
 `2010`
-**Wulff, C**; Ytterdal, T. ["Comparator-based switched-capacitor pipelined analog-to-digital converter with comparator preset, and comparator delay compensation"](https://link.springer.com/article/10.1007/s10470-010-9576-3), Analog Integrated Circuits and Signal Processing, December 2010 , © Springer [PDF](https://github.com/wulffern/wulffern.github.io/blob/main/publications/wulff10.pdf)
+**Wulff, C**; Ytterdal, T. ["Comparator-based switched-capacitor pipelined analog-to-digital converter with comparator preset, and comparator delay compensation"](https://link.springer.com/article/10.1007/s10470-010-9576-3), Analog Integrated Circuits and Signal Processing, December 2010 , © Springer [PDF](https://github.com/wulffern/wulffern.github.io/blob/main/docs/assets/publications/wulff10.pdf)
 
 `2009`
 L. Lewyn, T. Ytterdal, **C. Wulff**, and K. Martin,
@@ -196,10 +196,7 @@ Proceedings of the IEEE , Vol: 97 , No: 10, 2009 DOI:
 `2008`
 **Wulff, C**; Knauserud, Ø; Ytterdal, T. ["Switched Capacitor Analog Modulo Integrator For Application In Open Loop Sigma-Delta Modulators"](https://link.springer.com/article/10.1007/s10470-007-9084-2), Analog Integrated Circuits and Signal Processing, Febuary 2008 , © Springer
 
-
 ### Conference Papers
-
-
 
 `2024`
 Moland, V; **Wulff, C**; Przyborowski, D [General-Purpose High Swing Digital-to-Analog Converter for Low Power Applications](https://ieeexplore.ieee.org/abstract/document/10614030/), 2024 31st International Conference on Mixed Design of Integrated Circuits and System (MIXDES)
