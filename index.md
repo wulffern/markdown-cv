@@ -370,6 +370,8 @@ Shankkar Balasubramanian
 ### Master Students
 `2025`
 
+**Sebastian Kalland** [On synchronization from coherent two-way phase measurements using Bluetooth Low Energy](https://nva.sikt.no/registration/0199c3669e81-a37ab101-909f-4189-931f-56bd0b0d792e)
+
 **Alf Vidar Vetrhus** [A discrete time reconfigurable bandgap reference and temperature sensor in SkyWater 130nm](https://nva.sikt.no/registration/0199c376deed-5cde154c-492a-49eb-bae3-044fa145a713)
 
 **Syver Haraldsen & Trond Forstrøm Christiansen** [Multi-modal Dead Reckoning](https://nva.sikt.no/registration/019b266c322e-3b9e5e07-7ccd-468a-a720-50b0f96ac312)
