@@ -360,7 +360,7 @@ of thought that might be difficult to follow.
 `2023-now`
 Jonathan Sæthre Ege
 
-`2021-now`
+`2021-2026`
 Fredrik Esp Feyling
 
 `2020-now`
@@ -368,6 +368,16 @@ Shankkar Balasubramanian
 
 
 ### Master Students
+`2025`
+
+**Alf Vidar Vetrhus** [A discrete time reconfigurable bandgap reference and temperature sensor in SkyWater 130nm](https://nva.sikt.no/registration/0199c376deed-5cde154c-492a-49eb-bae3-044fa145a713)
+
+**Syver Haraldsen & Trond Forstrøm Christiansen** [Multi-modal Dead Reckoning](https://nva.sikt.no/registration/019b266c322e-3b9e5e07-7ccd-468a-a720-50b0f96ac312)
+
+**Rein Gundersen Bentdal** [Low-Power Biologically Plausible Neuron Circuit for Large-Scale Neuromorphic Integration](https://nva.sikt.no/registration/019b071008d6-6c6a19d3-ed0b-4776-8adc-efb44eed7cd6)
+
+**Bjørn Kristoffer Trydal Solheim & Leidulv Marcus Tonnesland** [A Framework for Automated Layout Generation of Analog Circuits Utilizing Open Source EDA Tools](https://nva.sikt.no/registration/0199c37c0ee2-1370bd4c-0d2b-42ae-a834-e1cdc20bea8c)
+
 `2024`
 
 **Ji Soo Ahn** [Analog Modeling and Implementation of SoC using Open-Source Tools](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3154624)
